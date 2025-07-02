@@ -12,19 +12,6 @@
 - 💬 Ask me about **Kotlin, Python**
 - 📫 How to reach me: **david.ernst@davils.com**
 
-## 🌐 Connect with me
-<p align="center">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-  </a>
-  <a href="https://twitter.com" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
-  </a>
-  <a href="https://github.com/Dev-Seri" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
-  </a>
-</p>
-
 ## 💻 Languages and Tools
 <p align="center">
   <!-- Programming Languages -->
